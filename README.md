@@ -6,20 +6,20 @@ A modern fork of the classic Weather mod for Beat Saber, adding custom particle 
 
 Built against 1.40.8, may work for other versions
 
-</div align="center">
-
 ---
 
 ## Quick Links
-* **[User & Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)**
-* 📦 *All existing community effects are bundled right in the release zip.*
+
+[User & Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)  
+📦 *All existing community effects are bundled right in the release zip.*
 
 ---
 
 ## Features
-* **Menus & Gameplay:** Run particle effects in the main menu and while playing songs.
-* **BSML UI:** Built-in settings menu to toggle and configure effects on the fly.
-* **Pre-bundled Effects:** The download comes packed with all existing weather effects ready to go.
+
+**Menus & Gameplay:** Run particle effects in the main menu and while playing songs.  
+**BSML UI:** Built-in settings menu to toggle and configure effects on the fly.  
+**Pre-bundled Effects:** The download comes packed with all existing weather effects ready to go.
 
 ---
 
@@ -65,3 +65,5 @@ Built against 1.40.8, may work for other versions
 <img width="800" alt="Space Warp" src="https://github.com/user-attachments/assets/9b377a66-b255-4b19-b03e-86f9c6f96d0a" />
 
 </details>
+
+</div>
