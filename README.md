@@ -1,30 +1,17 @@
-<div align="center">
+# Beat Saber Weather (WeatherReloaded)
 
-# 🌤️ Beat Saber Weather (WeatherReloaded)
+An updated fork of the classic Weather mod that brings custom particle and environmental effects to Beat Saber menus and gameplay.
 
-An updated, modernized fork of the classic Weather mod that brings immersive custom particle and environmental effects to both your menus and gameplay in Beat Saber.
+## Guide & Links
+* **[Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)**
+* *All pre-created effects are included directly in the release zip.*
 
-</div>
+## Features
+* Adds dynamic weather and particle effects to menus and active gameplay.
+* Built-in BSML interface for easy configuration and switching.
+* Bundled with community effects right out of the box.
 
----
-
-## 📖 Quick Links
-* **[User & Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)**
-* 📦 *All pre-created effects are included directly out-of-the-box in the latest release zip!*
-
----
-
-## ✨ Features
-* **In-Game & Menu Environments:** Seamlessly render dynamic weather conditions and custom particle setups across menu flows and active gameplay sessions.
-* **BSML Integration:** Interactive, clean user interfaces built with Beat Saber Markup Language for effortless effect customization and switching.
-* **Pre-bundled Library:** Every major community effect is packaged into the release download so you can start customizing immediately.
-
----
-
-## 📸 Effect Gallery *(Preview)*
-
-<details>
-<summary><b>Click to expand and view screenshots</b></summary>
+## Screenshots *(Not every effect is previewed below)*
 
 ### Rainbow Runway
 <img width="800" alt="Rainbow Runway" src="https://github.com/user-attachments/assets/ffc8660c-b87b-473e-8bc6-515b0baad326" />
@@ -61,5 +48,3 @@ An updated, modernized fork of the classic Weather mod that brings immersive cus
 
 ### Space Warp
 <img width="800" alt="Space Warp" src="https://github.com/user-attachments/assets/9b377a66-b255-4b19-b03e-86f9c6f96d0a" />
-
-</details>
