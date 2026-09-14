@@ -4,7 +4,9 @@
 
 A modern fork of the classic Weather mod for Beat Saber, adding custom particle and environmental effects to menus and gameplay.
 
-</div>
+Built against 1.40.8, may work for other versions
+
+</div align="center">
 
 ---
 
