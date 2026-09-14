@@ -1,0 +1,10 @@
+﻿<bg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://monkeymanboy.github.io/BSML-Docs/BSMLSchema.xsd">
+    <tab-selector tab-tag='SettingsTab'/>
+    <tab tags='SettingsTab' tab-name='Effects'>
+      <vertical pad-top='12' spacing='1'>
+        <page-button event-click='effectList#PageUp' direction='Up' />
+        <list id='effectList' expand-cell='true' select-cell='effectSelect' />
+        <page-button event-click='effectList#PageDown' direction='Down' />
+      </vertical>
+    </tab>
+</bg>

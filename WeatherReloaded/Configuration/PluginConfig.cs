@@ -1,0 +1,30 @@
+﻿using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using IPA.Config.Stores;
+using IPA.Config.Stores.Attributes;
+using IPA.Config.Stores.Converters;
+
+[assembly: InternalsVisibleTo(GeneratedStore.AssemblyVisibilityTarget)]
+namespace WeatherReloaded.Configuration
+{
+    internal class PluginConfig
+    {
+        public static PluginConfig? Instance = null;
+
+        [NonNullable, UseConverter(typeof(ListConverter<string>))]
+        public virtual List<string> EnabledEffects { get; set; } = new();
+        public virtual bool ShowCityName { get; set; } = true;
+        
+        public virtual float AudioSfxVolume { get; set; } = 1f;
+        public virtual bool EnabledInMenu { get; set; } = true;
+        public virtual bool EnabledInGameplay { get; set; } = true;
+
+        public void AddEffect(string name)
+        {
+            if (!EnabledEffects.Contains(name))
+            {
+                EnabledEffects.Add(name);
+            }
+        }
+    }
+}
