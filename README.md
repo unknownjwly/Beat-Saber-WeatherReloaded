@@ -1,19 +1,30 @@
+<div align="center">
+
 # Beat Saber Weather (WeatherReloaded)
 
-An updated fork of the classic Weather mod that brings custom particle and environmental effects to Beat Saber menus and gameplay.
+A modern fork of the classic Weather mod for Beat Saber, adding custom particle and environmental effects to menus and gameplay.
 
-Built against 1.40.8, other versions may work
+</div>
 
-## Guide & Links
-* **[Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)**
-* *All pre-created effects are included directly in the release zip.*
+---
+
+## Quick Links
+* **[User & Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)**
+* 📦 *All existing community effects are bundled right in the release zip.*
+
+---
 
 ## Features
-* Adds dynamic weather and particle effects to menus and active gameplay.
-* Built-in BSML interface for easy configuration and switching.
-* Bundled with community effects right out of the box.
+* **Menus & Gameplay:** Run particle effects in the main menu and while playing songs.
+* **BSML UI:** Built-in settings menu to toggle and configure effects on the fly.
+* **Pre-bundled Effects:** The download comes packed with all existing weather effects ready to go.
 
-## Screenshots *(Not every effect is previewed below)*
+---
+
+## Screenshots *(Click to expand)*
+
+<details>
+<summary><b>View Effect Gallery</b></summary>
 
 ### Rainbow Runway
 <img width="800" alt="Rainbow Runway" src="https://github.com/user-attachments/assets/ffc8660c-b87b-473e-8bc6-515b0baad326" />
@@ -50,3 +61,5 @@ Built against 1.40.8, other versions may work
 
 ### Space Warp
 <img width="800" alt="Space Warp" src="https://github.com/user-attachments/assets/9b377a66-b255-4b19-b03e-86f9c6f96d0a" />
+
+</details>
