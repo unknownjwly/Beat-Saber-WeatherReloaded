@@ -2,6 +2,8 @@
 
 An updated fork of the classic Weather mod that brings custom particle and environmental effects to Beat Saber menus and gameplay.
 
+Built against 1.40.8, other versions may work
+
 ## Guide & Links
 * **[Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)**
 * *All pre-created effects are included directly in the release zip.*
