@@ -4,7 +4,7 @@
 # Beat Saber Weather (WeatherReloaded)
 
 
-A modern fork of the classic Weather mod for Beat Saber, adding custom particle and environmental effects to menus and gameplay.
+An updated  fork of the Weather mod for Beat Saber 1.40.8, adding custom particle and environmental effects to menus and gameplay.
 
 
 Built against 1.40.8, may work for other versions
@@ -20,7 +20,7 @@ Built against 1.40.8, may work for other versions
 
 * **[User & Configuration Guide](https://docs.google.com/document/d/1unpPb_R5WGtdpPGP_CpkfZzKxpipLexYjGRuPnuHC2k)**
 
-* 📦 *All existing community effects are bundled right in the release zip.*
+* *All existing community effects are bundled right in the release zip.*
 
 
 ---
